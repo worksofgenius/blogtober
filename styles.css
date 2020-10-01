@@ -21,21 +21,11 @@ a{
 	text-decoration: none;
 	color: inherit;
 	cursor: pointer;
-
 	opacity: 0.9;
 }
 
 a:hover{
 	opacity: 1;
-}
-
-a.btn{
-	color: #fff;
-	border-radius: 4px;
-	text-transform: uppercase;
-	background-color: #2196F3;
-	font-weight: 800;
-	text-align: center;
 }
 
 hr{
@@ -110,11 +100,13 @@ ul.grid{
 .hero h1{
 	font: bold 60px 'Open Sans', sans-serif;
 	margin-bottom: 15px;
+	color: #414a4f;
 }
 
 .hero h3{
 	font: normal 28px 'Open Sans', sans-serif;
 	margin-bottom: 40px;
+	color: #414a4f;
 }
 
 @media (max-width: 800px){
