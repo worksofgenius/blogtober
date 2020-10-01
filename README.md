@@ -16,3 +16,7 @@ You don't have to write your magnum opus.
 Write one post once a week and share it.
 
 Stuck? Use [one of these questions](https://worksofgenius.github.io/Icebreaker-Randomizer/) as a prompt.
+
+# Join
+
+[Blogtober Website](https://worksofgenius.github.io/blogtober/)
