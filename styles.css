@@ -26,12 +26,13 @@ a{
 
 a:hover{
 	opacity: 1;
+	color: #A1DD0F
 }
 
 hr{
 	width: 150px;
 	height: 2px;
-	background-color: #2196F3;
+	background-color: #ff6701;
 	border: 0;
 	margin-bottom: 80px;
 }
@@ -40,7 +41,6 @@ section{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-
 	padding: 125px 100px;
 }
 
@@ -61,7 +61,7 @@ section{
 }
 
 section h3.title{
-	color: #414a4f;
+	color: #000000;
 	text-transform: capitalize; 
 	font: bold 32px 'Open Sans', sans-serif;
 	margin-bottom: 35px;
@@ -82,7 +82,6 @@ ul.grid{
 	flex-wrap: wrap;
 	justify-content: center;
 }
-
 
 /*----------------
  	Hero Section
@@ -106,7 +105,7 @@ ul.grid{
 .hero h3{
 	font: normal 28px 'Open Sans', sans-serif;
 	margin-bottom: 40px;
-	color: #414a4f;
+	color: #000000;
 }
 
 @media (max-width: 800px){
@@ -121,10 +120,6 @@ ul.grid{
 
 	.hero h3{
 		font-size: 24px;
-	}
-
-	.hero a.btn{
-		padding: 15px 40px;
 	}
 
 }
@@ -156,7 +151,6 @@ ul.grid{
 	flex-basis: 60%;
 }
 
-
 @media (max-width: 1000px){
 
 	.our-work .grid li.small,
@@ -166,24 +160,22 @@ ul.grid{
 
 }
 
-
-
 /*--------------------
  	Participants Section
 --------------------*/
 
 .participants{
-	background-color: ##f7f7f7;
+	background-color: #f7f7f7;
 }
 
 .participants .quote{
 	text-align: center;
 	width: 80%;
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 1.5;
-    margin-bottom: 20px;
-    padding: 0;
+   	font-size: 22px;
+   	font-weight: 300;
+   	line-height: 1.5;
+   	margin-bottom: 20px;
+   	padding: 0;
 }
 
 .participants .author{
